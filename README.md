@@ -69,6 +69,4 @@ The backend should now be running on `http://localhost:3001` (or whichever port 
 
 Make sure to keep your Gemini API key confidential and never commit it to version control. The `.env` file should be included in your `.gitignore`.
 
-## Additional Information
 
-[Add any other relevant information about your project, such as its purpose, features, or any specific configuration needed]
