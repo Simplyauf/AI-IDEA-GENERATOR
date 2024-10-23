@@ -1,6 +1,4 @@
-# Your Project Name
-
-AI Chat Ideas Generator
+# AI Chat Ideas Generator
 
 This project consists of a React frontend and a backend server. Follow the instructions below to set up and run both parts of the application.
 
