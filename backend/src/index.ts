@@ -7,7 +7,7 @@ app.use(cors());
 app.use(express.json());
 
 // ADD YOUR GEMINI API KEYH HERE
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY as string);
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || "");
 
 interface ChatMessage {
   role: "user" | "model";
